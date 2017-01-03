@@ -1,11 +1,11 @@
 # amp
 Automated Materials Production
 
-The Automated Material Production process, or A.M.P., allows advocates to make multi-media materials, including paper hand-outs, videos, presentations for meetings, an audio file, and a workbook, by simply outlining the content of the legal information.  A.M.P. guides an advocate to make effective, useful multimedia materials for clients without special graphic design knowledge or video production skills.
+The Automated Material Production process, or A.M.P., allows advocates to make multi-media materials, including paper hand-outs, videos, presentations for meetings, an audio file, and a workbook, from a spreadsheet or an outline in Word.  A.M.P. guides an advocate to make effective, useful multimedia materials for clients without special graphic design knowledge or video production skills, while providing the ability to customize information to the client's specific jursidiction.
 
-Like other software programs we use, such as A2J Author and HotDocs, some advocates will be A.M.P. Producers, who know how to use the open software programs used by A.M.P., but most users can use A.M.P. without having to use any software other than Microsoft Word.  This User Guide is intended for those users.
+A.M.P. uses a
   
-##What’s So Great About A.M.P.?
+##Design Principles
 -Creates multimedia educational materials to meet the different needs of our client population
 -Hand-outs match videos and presentation, providing a reminder clients can take with them
 -Easy to change and update all multimedia at once, based on feedback or changes in law
@@ -13,6 +13,15 @@ Like other software programs we use, such as A2J Author and HotDocs, some advoca
 -Provides the foundation for future projects to allow more personalized, usefuul educational materials
 
 ##How Do I Use A.M.P.?
+
+_template.svg_
+
+data.odt
+
+images
+
+video.blend
+
 Each page of the User Guide will walk you through one step of A.M.P.:
 1. Outline Content and Pick Template
 2. Pick images and/or documents
