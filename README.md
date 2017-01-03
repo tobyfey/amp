@@ -6,11 +6,11 @@ The Automated Material Production process, or A.M.P., allows advocates to make m
 A.M.P. uses a
   
 ##Design Principles
-+Creates multimedia educational materials to meet the different needs of our client population
-+Hand-outs match videos and presentation, providing a reminder clients can take with them
-+Easy to change and update all multimedia at once, based on feedback or changes in law
-+Breaks multimedia production tasks into simple roles
-+Provides the foundation for future projects to allow more personalized, usefuul educational materials
+*Creates multimedia educational materials to meet the different needs of our client population
+*Hand-outs match videos and presentation, providing a reminder clients can take with them
+*Easy to change and update all multimedia at once, based on feedback or changes in law
+*Breaks multimedia production tasks into simple roles
+*Provides the foundation for future projects to allow more personalized, usefuul educational materials
 
 ##How Do I Use A.M.P.?
 
