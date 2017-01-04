@@ -3,34 +3,45 @@ Automated Materials Production
 
 The Automated Material Production process, or A.M.P., allows advocates to make multi-media materials, including paper hand-outs, videos, presentations for meetings, an audio file, and a workbook, from a spreadsheet or an outline in Word.  A.M.P. guides an advocate to make effective, useful multimedia materials for clients without special graphic design knowledge or video production skills, while providing the ability to customize information to the client's specific jursidiction.
 
-A.M.P. uses a
+A.M.P. uses a variety of open-source programs
   
 ##Design Principles
-*Creates multimedia educational materials to meet the different needs of our client population
-*Hand-outs match videos and presentation, providing a reminder clients can take with them
-*Easy to change and update all multimedia at once, based on feedback or changes in law
-*Breaks multimedia production tasks into simple roles
-*Provides the foundation for future projects to allow more personalized, usefuul educational materials
++ Creates multimedia educational materials to meet the different needs of our client population
++ Hand-outs match videos and presentation, providing a reminder clients can take with them
++ Easy to change and update all multimedia at once, based on feedback or changes in law
++ Breaks multimedia production tasks into simple roles
++ Provides the foundation for future projects to allow more personalized, usefuul educational materials
 
 ##How Do I Use A.M.P.?
 
-_template.svg_
+__template.svg__
 
-data.odt
+The template provides the design of the educational materials, and can be created in Inkscape.
 
-images
+To work with SVGGVS, templates must contain specific layers and each text or image object must have a Label that matches a corresponding tag in data.odt
 
-video.blend
+To work with Sozi, templates should have a layer of frames
 
-Each page of the User Guide will walk you through one step of A.M.P.:
-1. Outline Content and Pick Template
-2. Pick images and/or documents
-3. Add Template Tags and names of images to Outline
-4. Record Script Based on Presentation
-5. Add Images, Animations and Videos
+__data.odt__
 
-##Using A.M.P. Individually & Collaboratively
-The A.M.P. process can both help individual advocates work on multimedia materials individually and can be used in community meetings to help advocates, community partners and clients to create materials collaboratively.
+SVGGVS uses a spreadsheet saved as an .odt file to customize the template.  The first row in the spreadsheet is a list of the labels in the template.  The subsequent rows. 
+
+**images**
+Most images in the templates have the same square ratio, which allows a library of images to be used interchangeably without distortion.  These are standard images with a common design element that make the hand-out more readable and connect the hand-out to other multimedia materials.  Images provide context clues to aid in literacy, add emphasis, break-up text  and create links and connections across materials.  
+
+Templates may also use a document image, to reference a form or court document that the user may recognize.
+
+**video.blend**
+This Blender file can be opened in Blender's Video Sequence Editor
+
+Steps:
+ 1. SVGGVS creates a customized SVG (can be exported to pdf for a paper hand-out)
+ 2. Convert text to path in SVG using [this tool](https://github.com/senshu/Sozi/tree/master/tools/texts2paths) (can be used for presentation
+ 3. Add Template Tags and names of images to Outline
+ 4. Record Script Based on Presentation
+ 5. Add Images, Animations and Videos
+
+
 
 #Step 1 – Outline Content & Pick Template
 The hardest part of creating legal educational materials is organizing the information you want to convey to your audience, no matter what process you use.  The outline in A.M.P. is the one document that will be shared, edited, updated, and corrected among your team,
@@ -44,13 +55,13 @@ First, look through the library of templates to get ideas about how to organize 
 Here are some exAMPles:
                  
 The Templates use a number of different methods to organize and present information. Think about which of these methods can help you organize your content.
--Lists
--Process of steps
--Tips in handwriting
--Sidebyside comparisons
--Document help
--Question and Answers
--Side box of Definitions
+- Lists
+- Process of steps
+- Tips in handwriting
+- Sidebyside comparisons
+- Document help
+- Question and Answers
+- Side box of Definitions
 b) Make Your Content Into an Outline 
 Write a Multilevel List in Microsoft Word.  Pick this list --->  
 The organization of the outline isn’t that important.  For A.M.P., all that matters is each block of text has its own number in the outline.  Organize the outline in a way that makes sense to you and your collaborators
@@ -63,38 +74,7 @@ You can start with a pre-formatted outline, with Template Tags.  Here is an outl
 ####If a Template Doesn’t Quite Fit...
 If none of the Templates are exactly right for the way you want to organize your information, you can request a new Template from an A.M.P. Producer.  It is not difficult to customize the Templates, especially if you are adding another bullet point to a list or combining different organizational methods.  
 
-#Step 2 – Pick images and/or documents
 
-A.M.P. uses simple icons as images in the hand-out and video.  These are standard images with a common design element that make the hand-out more readable and connect the hand-out to other multimedia materials.  There will be a chance to add photographs and fun pictures to the video later!
-
-###Most Important Guides
-Images are to aid in literacy, adds emphasis, break-up text on a hand-out, and create links and connections across materials.  
-Documents and forms can increase familiarity if clients can recognize similar notices they’ve received.
-How-to
-a) Pick images from library and make list
-You can find the library of images here on the G drive.  You want to use the library of square images.
-Here are some sample images from the library.
-
-Pick an image that emphasizes the information next to the image on the template.
-The template will have names on the picture holders like Pic1, Pic2, and so on
-Make a list starting with the name, then a semicolon, then “images\” then finally the name of the image you are selecting.  For example,
-Pic1;images\baby.png
-Pic2;images\BuildingBlocksPlanV.png
-Pic3;images\dressshirt.png
-Pic4;images\house.png
-Pic5;images\monthday15.png
-Pic6;images\Scales.png  *Pay attention to capital letters!
-Pic7;images\thumbsup.png
-If the template you picked has picture holders that do not have names, email an AMP Producer to update the template.
-b) Find appropriate documents
-Some templates allow you to use a document in the hand-out and the rest of the materials.  Find a document that the client may have received, or a form that the client may have to use.  For example, this template could use a document of a notice of a reduction in benefits.
-c) Find any personal information in the documents to retract
-If you use a client’s document as a sample, of course we don’t want any personal information on the document!  Double check to make sure there is no personal information in the document.  Make a note about the personal information to send to the A.M.P. Producer to redact.
-d) Send list & documents to an A.M.P. Producer to convert to an image file
-Can’t find an image that you need?
-If the library doesn’t have an image that you can need, you can email an A.M.P. Producer and request an image.  
-You can also search for an image yourself by using Google.  After searching for something on Google, click on Images, then click on “Search Tools”  Click on “Type” and select “Clip Art” from the drop-down menu.  Next, click on “Search Tools” and check “Labeled for non-commercial reuse with modification” or any of the other options other than “Not filtered by license”
-If you find an image you like, email the web address where you found the image to an A.M.P. Producer.
 Step 3 – Add Template Tags to Outline
 
 Not Used for Collaborative Meetings
