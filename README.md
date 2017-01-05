@@ -8,7 +8,7 @@ A.M.P. uses a variety of open-source programs
 ##Design Principles
 + Creates multimedia educational materials to meet the different needs of our client population
 + Hand-outs match videos and presentation, providing a reminder clients can take with them
-+ Easy to change and update all multimedia at once, based on feedback or changes in law
++ Easy to change and update all multimedia at once, based on feedback or changes in law.  The modular nature of the process allows A/B testing.
 + Breaks multimedia production tasks into simple roles
 + Provides the foundation for future projects to allow more personalized, usefuul educational materials
 
