@@ -6,3 +6,8 @@
 ![alt text](https://github.com/grytafey/amp/blob/master/images/BuildingBlocksSkillsV.png "BuildingBlocksSkillsV.png")
 ![alt text](https://github.com/grytafey/amp/blob/master/images/BuildingBlocksTrustH.png "BuildingBlocksTrustH.png")
 ![alt text](https://github.com/grytafey/amp/blob/master/images/BuildingBlocksTrustV.png "BuildingBlocksTrustV.png")
+![alt text](https://github.com/grytafey/amp/blob/master/images/CheckMark.png "CheckMark.png")
+![alt text](https://github.com/grytafey/amp/blob/master/images/Dictionary.png "Dictionary.png")
+![alt text](https://github.com/grytafey/amp/blob/master/images/ExclamationPoint.png "ExclamationPoint.png")
+![alt text](https://github.com/grytafey/amp/blob/master/images/FileCabinet.png "FileCabinet.png")
+![alt text](https://github.com/grytafey/amp/blob/master/images/FileCabinetPapers.png "FileCabinetPapers.png")
